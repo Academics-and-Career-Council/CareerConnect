@@ -812,7 +812,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: rgba(6, 12, 34, 0.76);
   position: absolute;
   left: 0;
-  bottom: -140px;
+  bottom: -110px;
   right: 0;
   text-align: center;
   padding-top: 10px;
@@ -834,7 +834,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .speaker .details .social {
-  height: 140px;
+  height: 110px;
 }
 
 #events .speaker .details a {
