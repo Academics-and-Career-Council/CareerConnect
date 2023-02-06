@@ -805,14 +805,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 #events .speaker {
   position: relative;
   overflow: hidden;
-  margin-bottom: 100px;
+  margin-bottom: 140px;
 }
 
 #events .speaker .details {
   background: rgba(6, 12, 34, 0.76);
   position: absolute;
   left: 0;
-  bottom: -100px;
+  bottom: -140px;
   right: 0;
   text-align: center;
   padding-top: 10px;
@@ -834,7 +834,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .speaker .details .social {
-  height: 100px;
+  height: 140px;
 }
 
 #events .speaker .details a {
