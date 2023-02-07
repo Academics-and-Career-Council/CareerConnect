@@ -807,6 +807,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   overflow: hidden;
   margin-bottom: 100px;
+  height: 200px;
 }
 
 #events .speaker .details {
